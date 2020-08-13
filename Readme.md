@@ -1,4 +1,4 @@
-# Example Python Script to Scrape Web Content Behind OU's SSU Login
+# Example Python Script to Scrape Web Content Behind OU's SSO Login
 
 This example pulls the email alias from the accounts.ou.edu site. This basic structure can be
 further modified or extended to access links to download content, etc.
